@@ -1,0 +1,4 @@
+*.te
+__pycache__/
+*.taste
+__tastes__/
